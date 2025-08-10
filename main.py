@@ -1,5 +1,4 @@
 import asyncio
-from services.weather import get_weather
 from services.crypto import get_crypto_price
 from services.news import get_country_news
 
